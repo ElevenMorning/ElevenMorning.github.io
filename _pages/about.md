@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Phd student from [School of SEIEE](https://www.seiee.sjtu.edu.cn/), [Peking University] (https://www.sjtu.edu.cn/). My research interest includes computer vision, EDA, face anti-spoofing, and LLM.
+I'm a second year Phd student from [School of SEIEE](https://www.seiee.sjtu.edu.cn/), [shanghai jiao tong University](https://www.sjtu.edu.cn/). My research interest includes computer vision, EDA, face anti-spoofing, and MLLM. I'm extremely fortunate to be supervised by Professor [Lei He](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works&sortby=pubdate) from UCLA, and Associate Professor [Ting-Jung Lin](https://ieeexplore.ieee.org/author/37090062293) from EIT.
 
 A data-driven personal website
 ======
