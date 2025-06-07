@@ -19,15 +19,15 @@ Work experience
 ======
 
 - **Sep 2023 – Jun 2024**  
-  **Algorithm Intern**, *[Shukun Technology]*(https://www.shukun.com/)  
+  **Algorithm Intern**, [*Shukun Technology*](https://www.shukun.com/)  
   - Focused on Segment Anything Model (SAM) and Multimodal Large Language Models (MLLMs)
 
 - **Jun 2023 – Sep 2023**  
-  **Algorithm Intern**, *Ping An Technology*  
+  **Algorithm Intern**, [*Ping An Technology*](https://tech.pingan.com/)  
   - Conducted research on multimodal learning
 
 - **Feb 2022 – Jun 2023**  
-  **Algorithm Intern**, *Hikvision*  
+  **Algorithm Intern**, [*Hikvision*](https://www.hikvision.com/cn/)  
   - Worked on face anti-spoofing and face detection
   
 Skills
