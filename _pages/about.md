@@ -13,6 +13,8 @@ I'm a second year Phd student from [School of SEIEE](https://www.seiee.sjtu.edu.
 My research tpoics include using AI methods to accelerate AMS circuit design and computer vision. Recently, I have been highly interested in the applications of multimodal large language models(MLLMs) and Bayesian optimization in the field of EDA. Meanwhile, I am also interested in the applications of MLLMs and SAM in face anti-spoofing and deepfake detection.
 
 
+To foster academic exchange among young researchers in the intersection of AI and EDA, I co-founded the **Future EDA and AI Techniques Seminar (FEATs)** — an online seminar jointly initiated by Ph.D. students from East Institute of Technology, Shanghai Jiao Tong University, and UCLA. FEATs aims to provide a collaborative platform for early-career researchers to engage in in-depth discussions, share insights, and explore interdisciplinary collaboration opportunities. It also serves as a valuable entry point for newcomers to keep up with cutting-edge developments in EDA, machine learning, and AI.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
