@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yichen Shi's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
