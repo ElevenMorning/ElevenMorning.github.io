@@ -19,7 +19,7 @@ Work experience
 ======
 
 - **Sep 2023 – Jun 2024**  
-  **Algorithm Intern**, *Shukun Technology*  
+  **Algorithm Intern**, *[Shukun Technology]*(https://www.shukun.com/)  
   - Focused on Segment Anything Model (SAM) and Multimodal Large Language Models (MLLMs)
 
 - **Jun 2023 – Sep 2023**  
