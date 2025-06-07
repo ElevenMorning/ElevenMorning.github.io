@@ -10,7 +10,10 @@ redirect_from:
 I'm a second year Phd student from [School of SEIEE](https://www.seiee.sjtu.edu.cn/), [shanghai jiao tong University](https://www.sjtu.edu.cn/). My research interest includes computer vision, EDA, face anti-spoofing, and MLLM. I'm extremely fortunate to be supervised by Professor [Lei He](https://scholar.google.com/citations?hl=zh-CN&user=n_N-PJkAAAAJ&view_op=list_works&sortby=pubdate) from UCLA, and Associate Professor [Ting-Jung Lin](https://ieeexplore.ieee.org/author/37090062293) from EIT.
 
 
-My research tpoics include using AI methods to accelerate AMS circuit design and computer vision. Recently, I have been highly interested in the applications of multimodal large language models(MLLMs) and Bayesian optimization in the field of EDA. Meanwhile, I am also interested in the applications of MLLMs and SAM in face anti-spoofing and deepfake detection.
+My research topics include applying AI methods to accelerate analog and mixed-signal (AMS) circuit design. Recently, I have developed a strong interest in the use of **multimodal large language models (MLLMs)** and **optimization techniques** in electronic design automation (EDA). I am also interested in **computer vision** and **biometric security**.
+
+
+If you are interested in discussing related topics or potential collaborations, feel free to contact me via email at [shiyichen@sjtu.edu.cn](mailto:shiyichen@sjtu.edu.cn).
 
 FEATS
 =====
