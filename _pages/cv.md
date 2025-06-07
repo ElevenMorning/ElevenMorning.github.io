@@ -17,26 +17,35 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Sep 2023 – Jun 2024**  
+  **Algorithm Intern**, *Shukun Technology*  
+  - Focused on Segment Anything Model (SAM) and Multimodal Large Language Models (MLLMs)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Jun 2023 – Sep 2023**  
+  **Algorithm Intern**, *Ping An Technology*  
+  - Conducted research on multimodal learning
+
+- **Feb 2022 – Jun 2023**  
+  **Algorithm Intern**, *Hikvision*  
+  - Worked on face anti-spoofing and face detection
   
 Skills
 ======
 * Python
 * C++
 
+
+Awards
+======
+- 🥇 **Lanqiao Cup, Hebei Province**, First Prize (Ranked 1st) — 2020  
+- 🥇 **HBCPC (Hebei Provincial Programming Contest)**, Gold Medal (Top 10) — 2020  
+- 🥉 **ACM-ICPC Xi’an Regional**, Bronze Medal — 2019  
+- 🥉 **CCF-CCSP North China Regional**, Bronze Medal — 2019  
+- 🥇 **HBCPC (Hebei Provincial Programming Contest)**, Gold Medal (Top 10) — 2019  
+- 🥉 **ACM-ICPC Ningxia Regional**, Bronze Medal — 2018
+- 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -58,3 +67,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
