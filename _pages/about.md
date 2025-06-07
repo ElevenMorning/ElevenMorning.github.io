@@ -24,11 +24,11 @@ News
 
 - 📄 [AMSbench: A Comprehensive Benchmark for Evaluating MLLM Capabilities in AMS Circuits](https://arxiv.org/abs/2505.24138) is now **available on arXiv**. (2025)
 - 📄 [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](https://arxiv.org/abs/2505.09415) is now **available on arXiv**. (2025)
-- 📄 [Automated SAR ADC Sizing Using Analytical Equations](https://arxiv.org/abs/2505.09172) has been **accepted to ISEDA 2025**! (2025)
-- 📄 [AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection](https://arxiv.org/abs/2505.09155) has been **accepted to LAD 2025**! (2025)
-- 📄 [AMSNet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG](https://arxiv.org/abs/2411.13560) has been **accepted to ACM TODAES**. (2024)
-- 📄 [SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models](https://arxiv.org/abs/2402.04178) has been **accepted to Visual Intelligence**. (2024)
-- 📄 [AMSNet: Netlist Dataset for AMS Circuits](https://arxiv.org/abs/2405.09045) has been **accepted to LAD 2024** and received the **Best Paper Award**! (2024)
+- 🎉 [Automated SAR ADC Sizing Using Analytical Equations](https://arxiv.org/abs/2505.09172) has been **accepted to ISEDA 2025**! (2025)
+- 🎉 [AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection](https://arxiv.org/abs/2505.09155) has been **accepted to LAD 2025**! (2025)
+- 🎉 [AMSNet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG](https://arxiv.org/abs/2411.13560) has been **accepted to ACM TODAES**！ (2024)
+- 🎉 [SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models](https://arxiv.org/abs/2402.04178) has been **accepted to Visual Intelligence**！ (2024)
+- 🎉 [AMSNet: Netlist Dataset for AMS Circuits](https://arxiv.org/abs/2405.09045) has been **accepted to LAD 2024** and received the **Best Paper Award**! (2024)
 
 <!-- Getting started
 ======
