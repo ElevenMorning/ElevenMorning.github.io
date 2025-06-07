@@ -12,14 +12,20 @@ I'm a second year Phd student from [School of SEIEE](https://www.seiee.sjtu.edu.
 
 My research tpoics include using AI methods to accelerate AMS circuit design and computer vision. Recently, I have been highly interested in the applications of multimodal large language models(MLLMs) and Bayesian optimization in the field of EDA. Meanwhile, I am also interested in the applications of MLLMs and SAM in face anti-spoofing and deepfake detection.
 
-
-To foster academic exchange among young researchers in the intersection of AI and EDA, I co-founded the **Future EDA and AI Techniques Seminar (FEATs)** — an online seminar jointly initiated by Ph.D. students from East Institute of Technology, Shanghai Jiao Tong University, and UCLA. FEATs aims to provide a collaborative platform for early-career researchers to engage in in-depth discussions, share insights, and explore interdisciplinary collaboration opportunities. It also serves as a valuable entry point for newcomers to keep up with cutting-edge developments in EDA, machine learning, and AI. You can find at [bilibili](https://space.bilibili.com/3546780138474143).
+FEATS
+=====
+To foster academic exchange among young researchers in the intersection of AI and EDA, I co-founded the **Future EDA and AI Techniques Seminar (FEATs)** — an online seminar jointly initiated by Ph.D. students from East Institute of Technology, Shanghai Jiao Tong University, and UCLA. FEATs aims to provide a collaborative platform for early-career researchers to engage in in-depth discussions, share insights, and explore interdisciplinary collaboration opportunities. It also serves as a valuable entry point for newcomers to keep up with cutting-edge developments in EDA, machine learning, and AI. You can find at [here](https://space.bilibili.com/3546780138474143).
 
 News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 📄 [AMSbench: A Comprehensive Benchmark for Evaluating MLLM Capabilities in AMS Circuits](https://arxiv.org/abs/2505.24138) is now **available on arXiv**. (2025)
+- 📄 [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](https://arxiv.org/abs/2505.09415) is now **available on arXiv**. (2025)
+- 📄 [Automated SAR ADC Sizing Using Analytical Equations](https://arxiv.org/abs/2505.09172) has been **accepted to ISEDA 2025**! (2025)
+- 📄 [AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection](https://arxiv.org/abs/2505.09155) has been **accepted to LAD 2025**! (2025)
+- 📄 [AMSNet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG](https://arxiv.org/abs/2411.13560) has been **accepted to ACM TODAES**. (2024)
+- 📄 [SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models](https://arxiv.org/abs/2402.04178) has been **accepted to Visual Intelligence**. (2024)
+- 📄 [AMSNet: Netlist Dataset for AMS Circuits](https://arxiv.org/abs/2405.09045) has been **accepted to LAD 2024** and received the **Best Paper Award**! (2024)
 
 <!-- Getting started
 ======
