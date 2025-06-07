@@ -13,7 +13,7 @@ I'm a second year Phd student from [School of SEIEE](https://www.seiee.sjtu.edu.
 My research tpoics include using AI methods to accelerate AMS circuit design and computer vision. Recently, I have been highly interested in the applications of multimodal large language models(MLLMs) and Bayesian optimization in the field of EDA. Meanwhile, I am also interested in the applications of MLLMs and SAM in face anti-spoofing and deepfake detection.
 
 
-To foster academic exchange among young researchers in the intersection of AI and EDA, I co-founded the **Future EDA and AI Techniques Seminar (FEATs)** — an online seminar jointly initiated by Ph.D. students from East Institute of Technology, Shanghai Jiao Tong University, and UCLA. FEATs aims to provide a collaborative platform for early-career researchers to engage in in-depth discussions, share insights, and explore interdisciplinary collaboration opportunities. It also serves as a valuable entry point for newcomers to keep up with cutting-edge developments in EDA, machine learning, and AI.
+To foster academic exchange among young researchers in the intersection of AI and EDA, I co-founded the **Future EDA and AI Techniques Seminar (FEATs)** — an online seminar jointly initiated by Ph.D. students from East Institute of Technology, Shanghai Jiao Tong University, and UCLA. FEATs aims to provide a collaborative platform for early-career researchers to engage in in-depth discussions, share insights, and explore interdisciplinary collaboration opportunities. It also serves as a valuable entry point for newcomers to keep up with cutting-edge developments in EDA, machine learning, and AI. You can find at [bilibili](https://space.bilibili.com/3546780138474143).
 
 <!-- A data-driven personal website
 ======
