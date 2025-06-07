@@ -44,7 +44,8 @@ Awards
 - 🥉 **CCF-CCSP North China Regional**, Bronze Medal — 2019  
 - 🥇 **HBCPC (Hebei Provincial Programming Contest)**, Gold Medal (Top 10) — 2019  
 - 🥉 **ACM-ICPC Ningxia Regional**, Bronze Medal — 2018
-- 
+
+  
 <!-- 
 Publications
 ======
