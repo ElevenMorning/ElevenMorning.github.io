@@ -22,6 +22,7 @@ To foster academic exchange among young researchers in the intersection of AI an
 <p align="center">
   <img src="/images/long.png" alt="DDCL 方法结构图" width="60%">
 </p>
+
 News
 ======
 
