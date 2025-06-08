@@ -18,6 +18,7 @@ If you are interested in discussing related topics or potential collaborations, 
 FEATS
 =====
 To foster academic exchange among young researchers in the intersection of AI and EDA, I co-founded the **Future EDA and AI Techniques Seminar (FEATs)** — an online seminar jointly initiated by Ph.D. students from East Institute of Technology, Shanghai Jiao Tong University, and UCLA. FEATs aims to provide a collaborative platform for early-career researchers to engage in in-depth discussions, share insights, and explore interdisciplinary collaboration opportunities. It also serves as a valuable entry point for newcomers to keep up with cutting-edge developments in EDA, machine learning, and AI. You can find at [here](https://space.bilibili.com/3546780138474143).
+![DDCL 方法示意图](/images/2.3.png)
 
 News
 ======
