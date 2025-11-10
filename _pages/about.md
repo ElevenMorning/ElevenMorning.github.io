@@ -27,7 +27,8 @@ News
 ======
 
 - 📄 [AMSbench: A Comprehensive Benchmark for Evaluating MLLM Capabilities in AMS Circuits](https://arxiv.org/abs/2505.24138) is now **available on arXiv**. (2025)
-- 📄 [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](https://arxiv.org/abs/2505.09415) is now **available on arXiv**. (2025)
+- 🎉 Symbol and Footprint Database for Electronic Components by Agentic Recognization and Generation has been **accepted to PRCV 2025**! (2025)
+- 🎉 [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](https://arxiv.org/abs/2505.09415) has been **accepted to AAAI 2025**! (2025)
 - 🎉 [Automated SAR ADC Sizing Using Analytical Equations](https://arxiv.org/abs/2505.09172) has been **accepted to ISEDA 2025**! (2025)
 - 🎉 [AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection](https://arxiv.org/abs/2505.09155) has been **accepted to LAD 2025**! (2025)
 - 🎉 [AMSNet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG](https://arxiv.org/abs/2411.13560) has been **accepted to ACM TODAES**！ (2024)
