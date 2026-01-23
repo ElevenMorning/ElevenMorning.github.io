@@ -11,6 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+## FAS
+{% assign fas = pubs | where: "category", "FAS" %}
+{% for post in fas %}
   {% include archive-single.html %}
 {% endfor %}
+
+## EDA
+{% assign eda = pubs | where: "category", "EDA" %}
+{% for post in eda %}
+  {% include archive-single.html %}
+{% endfor %}
+
