@@ -2,7 +2,7 @@
 title: "AMSbench: A Comprehensive Benchmark for Evaluating MLLM Capabilities in AMS Circuits"
 collection: publications
 permalink: /publication/2025-05-30-amsbench-comprehensive-benchmark-for-evaluating-mllm-capabilities-in-ams-circuits
-excerpt: "AMSbench 是面向 AMS 电路领域多模态大模型能力评估的综合基准，系统覆盖感知、分析与设计等关键任务。"
+excerpt: "AMSbench is a comprehensive benchmark for evaluating multimodal large language models on AMS circuit perception, analysis, and design tasks."
 date: 2025-05-30
 venue: "arXiv"
 category: EDA

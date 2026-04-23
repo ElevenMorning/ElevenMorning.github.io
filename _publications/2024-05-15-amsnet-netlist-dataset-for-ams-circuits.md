@@ -2,7 +2,7 @@
 title: "AMSNet: Netlist Dataset for AMS Circuits"
 collection: publications
 permalink: /publication/2024-05-15-amsnet-netlist-dataset-for-ams-circuits
-excerpt: "AMSNet 构建了模拟与混合信号电路原理图与网表之间的大规模对应数据集，为 MLLM/LLM 在 AMS 电路理解与自动设计中的研究提供了基础数据支持。"
+excerpt: "AMSNet builds a large-scale paired dataset of AMS schematics and netlists to support multimodal understanding and automatic design for analog and mixed-signal circuits."
 date: 2024-05-15
 venue: "arXiv"
 category: EDA

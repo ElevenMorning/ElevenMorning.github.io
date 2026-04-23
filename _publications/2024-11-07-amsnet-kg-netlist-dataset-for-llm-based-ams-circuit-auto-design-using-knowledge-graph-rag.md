@@ -2,7 +2,7 @@
 title: "AMSnet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG"
 collection: publications
 permalink: /publication/2024-11-07-amsnet-kg-netlist-dataset-for-llm-based-ams-circuit-auto-design-using-knowledge-graph-rag
-excerpt: "AMSnet-KG 在电路网表数据集基础上加入知识图谱标注与检索增强生成框架，支持面向 AMS 电路自动设计的 LLM 推理与知识注入。"
+excerpt: "AMSnet-KG extends AMS netlist data with a circuit knowledge graph and retrieval-augmented generation to support LLM-based reasoning and auto-design for AMS circuits."
 date: 2025-10-18
 venue: "ACM Transactions on Design Automation of Electronic Systems"
 category: EDA

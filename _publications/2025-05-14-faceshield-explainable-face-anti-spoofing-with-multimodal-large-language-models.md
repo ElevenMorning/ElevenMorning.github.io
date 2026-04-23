@@ -2,7 +2,7 @@
 title: "FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models"
 collection: publications
 permalink: /publication/2025-05-14-faceshield-explainable-face-anti-spoofing-with-multimodal-large-language-models
-excerpt: "FaceShield 面向人脸反欺诈任务构建可解释的多模态大模型框架，能够完成真伪判断、攻击类型识别、推理解释与攻击区域定位。"
+excerpt: "FaceShield proposes an explainable multimodal large language model framework for face anti-spoofing, covering binary classification, attack type recognition, reasoning, and region localization."
 date: 2026-03-14
 venue: "Proceedings of the AAAI Conference on Artificial Intelligence"
 category: FAS

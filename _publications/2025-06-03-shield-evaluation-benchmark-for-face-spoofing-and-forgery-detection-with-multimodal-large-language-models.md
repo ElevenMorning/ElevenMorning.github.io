@@ -2,7 +2,7 @@
 title: "SHIELD: an evaluation benchmark for face spoofing and forgery detection with multimodal large language models"
 collection: publications
 permalink: /publication/2025-06-03-shield-evaluation-benchmark-for-face-spoofing-and-forgery-detection-with-multimodal-large-language-models
-excerpt: "SHIELD 是一个面向多模态大模型的人脸攻击检测评测基准，覆盖 face anti-spoofing 与 face forgery detection 两类关键任务。"
+excerpt: "SHIELD is an evaluation benchmark for multimodal large language models on both face anti-spoofing and face forgery detection tasks."
 date: 2025-06-03
 venue: "Visual Intelligence"
 category: FAS

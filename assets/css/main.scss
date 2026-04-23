@@ -41,6 +41,12 @@
 @import "print";
 
 .publications-page {
+  h2 {
+    font-size: $type-size-3;
+    margin-top: 1.8em;
+    margin-bottom: 0.45em;
+  }
+
   .archive__item-title {
     font-size: $type-size-5;
     line-height: 1.35;

@@ -2,7 +2,7 @@
 title: "Symbol and Footprint Database for Electronic Components by Agentic Recognition and Generation"
 collection: publications
 permalink: /publication/2025-10-15-symbol-and-footprint-database-for-electronic-components-by-agentic-recognition-and-generation
-excerpt: "该工作提出面向电子元器件 symbol 与 footprint 的 agentic recognition and generation 流程，并构建可扩展的组件数据库，为自动 PCB 设计提供基础。"
+excerpt: "This work presents an agentic recognition-and-generation pipeline for electronic component symbols and footprints, together with a scalable database for automated PCB design."
 date: 2025-10-15
 venue: "PRCV 2025"
 category: EDA
