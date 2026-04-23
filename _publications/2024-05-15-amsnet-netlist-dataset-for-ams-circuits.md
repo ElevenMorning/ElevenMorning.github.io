@@ -6,6 +6,7 @@ excerpt: "AMSNet 构建了模拟与混合信号电路原理图与网表之间的
 date: 2024-05-15
 venue: "arXiv"
 category: EDA
+order: 1
 paperurl: "https://arxiv.org/abs/2405.09045"
 citation: "Tao, Z., Shi, Y., Huo, Y., Ye, R., Li, Z., Huang, L., Wu, C., Bai, N., Yu, Z., Lin, T.-J., &amp; He, L. (2024). AMSNet: Netlist Dataset for AMS Circuits. <i>arXiv</i>, 2405.09045."
 ---

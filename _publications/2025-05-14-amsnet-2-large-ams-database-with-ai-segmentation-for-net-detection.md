@@ -6,6 +6,7 @@ excerpt: "AMSnet 2.0 通过 AI segmentation 提升复杂原理图中的 net dete
 date: 2025-05-14
 venue: "arXiv"
 category: EDA
+order: 2
 paperurl: "https://arxiv.org/abs/2505.09155"
 citation: "Shi, Y., Tao, Z., Gao, Y., Huang, L., Wang, H., Yu, Z., Lin, T.-J., &amp; He, L. (2025). AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection. <i>arXiv</i>, 2505.09155."
 ---
