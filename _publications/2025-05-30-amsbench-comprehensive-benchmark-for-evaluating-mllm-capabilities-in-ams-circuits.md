@@ -7,6 +7,7 @@ date: 2025-05-30
 venue: "arXiv"
 shortvenue: "arXiv"
 category: EDA
+label: "Benchmark"
 order: 4
 paperurl: "https://arxiv.org/abs/2505.24138"
 citation: "Shi, Y., Zhang, Z., Wang, H., Tao, Z., Li, Z., Chen, B., Wang, Y., Yu, Z., Lin, T.-J., &amp; He, L. (2025). AMSbench: A Comprehensive Benchmark for Evaluating MLLM Capabilities in AMS Circuits. <i>arXiv</i>, 2505.24138."

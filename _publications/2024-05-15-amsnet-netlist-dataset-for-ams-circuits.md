@@ -7,6 +7,7 @@ date: 2024-05-15
 venue: "arXiv"
 shortvenue: "arXiv"
 category: EDA
+label: "Dataset"
 order: 1
 paperurl: "https://arxiv.org/abs/2405.09045"
 citation: "Tao, Z., Shi, Y., Huo, Y., Ye, R., Li, Z., Huang, L., Wu, C., Bai, N., Yu, Z., Lin, T.-J., &amp; He, L. (2024). AMSNet: Netlist Dataset for AMS Circuits. <i>arXiv</i>, 2405.09045."

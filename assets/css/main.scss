@@ -41,10 +41,18 @@
 @import "print";
 
 .publications-page {
-  h2 {
+  .pub-section-title {
     font-size: $type-size-3;
     margin-top: 1.8em;
-    margin-bottom: 0.45em;
+    margin-bottom: 0.2em;
+    letter-spacing: -0.01em;
+  }
+
+  .pub-section-desc {
+    margin-top: 0;
+    margin-bottom: 1.1em;
+    font-size: $type-size-5;
+    color: #666;
   }
 
   .list__item {
@@ -58,11 +66,26 @@
   }
 
   .pub-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
     margin: 0 0 0.5em;
     font-size: $type-size-6;
     letter-spacing: 0.04em;
     text-transform: uppercase;
     color: #666;
+  }
+
+  .pub-badge {
+    display: inline-block;
+    padding: 0.14rem 0.48rem;
+    border-radius: 999px;
+    background: #eef3f8;
+    color: #3e5f7d;
+    font-size: 0.72em;
+    font-weight: 600;
+    letter-spacing: 0.06em;
   }
 
   .pub-meta__sep {

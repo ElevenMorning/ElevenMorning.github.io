@@ -7,6 +7,7 @@ date: 2025-10-18
 venue: "ACM Transactions on Design Automation of Electronic Systems"
 shortvenue: "TODAES"
 category: EDA
+label: "Knowledge Graph"
 order: 3
 paperurl: "https://doi.org/10.1145/3736166"
 citation: "Shi, Y., Tao, Z., Gao, Y., Zhou, T., Chang, C., Wang, Y., Chen, B., Zhang, G., Liu, A., Yu, Z., Lin, T.-J., &amp; He, L. (2025). AMSnet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG. <i>ACM Transactions on Design Automation of Electronic Systems</i>, 30(6), 94:1-94:37."

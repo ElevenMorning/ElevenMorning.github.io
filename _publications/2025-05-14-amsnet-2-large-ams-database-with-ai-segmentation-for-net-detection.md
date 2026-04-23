@@ -7,6 +7,7 @@ date: 2025-05-14
 venue: "arXiv"
 shortvenue: "arXiv"
 category: EDA
+label: "Dataset"
 order: 2
 paperurl: "https://arxiv.org/abs/2505.09155"
 citation: "Shi, Y., Tao, Z., Gao, Y., Huang, L., Wang, H., Yu, Z., Lin, T.-J., &amp; He, L. (2025). AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection. <i>arXiv</i>, 2505.09155."
