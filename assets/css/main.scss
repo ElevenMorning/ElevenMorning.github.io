@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.publications-page {
+  .archive__item-title {
+    font-size: $type-size-5;
+    line-height: 1.35;
+  }
+}

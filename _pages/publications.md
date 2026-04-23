@@ -13,6 +13,8 @@ author_profile: true
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
 
+<div class="publications-page">
+
 Representative publications across face anti-spoofing and EDA. The list below highlights benchmark, dataset, explainability, and multimodal reasoning work in both directions.
 
 ## Face Anti-Spoofing
@@ -30,3 +32,5 @@ Selected work on AMS datasets, benchmarking, knowledge-enhanced design, and comp
 {% for post in eda %}
   {% include archive-single.html %}
 {% endfor %}
+
+</div>
