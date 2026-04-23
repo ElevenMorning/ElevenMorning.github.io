@@ -47,8 +47,34 @@
     margin-bottom: 0.45em;
   }
 
+  .list__item {
+    margin-bottom: 1.4em;
+  }
+
   .archive__item-title {
     font-size: $type-size-5;
     line-height: 1.35;
+    margin-bottom: 0.15em;
+  }
+
+  .pub-meta {
+    margin: 0 0 0.5em;
+    font-size: $type-size-6;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #666;
+  }
+
+  .pub-meta__sep {
+    margin: 0 0.45em;
+  }
+
+  .archive__item-excerpt {
+    margin-bottom: 0.5em;
+  }
+
+  .pub-link {
+    margin-top: 0;
+    font-size: $type-size-6;
   }
 }

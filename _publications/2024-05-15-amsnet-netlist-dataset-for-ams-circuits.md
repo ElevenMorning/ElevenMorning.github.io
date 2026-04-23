@@ -5,6 +5,7 @@ permalink: /publication/2024-05-15-amsnet-netlist-dataset-for-ams-circuits
 excerpt: "AMSNet builds a large-scale paired dataset of AMS schematics and netlists to support multimodal understanding and automatic design for analog and mixed-signal circuits."
 date: 2024-05-15
 venue: "arXiv"
+shortvenue: "arXiv"
 category: EDA
 order: 1
 paperurl: "https://arxiv.org/abs/2405.09045"

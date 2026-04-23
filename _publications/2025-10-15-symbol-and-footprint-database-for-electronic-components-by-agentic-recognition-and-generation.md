@@ -5,6 +5,7 @@ permalink: /publication/2025-10-15-symbol-and-footprint-database-for-electronic-
 excerpt: "This work presents an agentic recognition-and-generation pipeline for electronic component symbols and footprints, together with a scalable database for automated PCB design."
 date: 2025-10-15
 venue: "PRCV 2025"
+shortvenue: "PRCV"
 category: EDA
 order: 5
 paperurl: "https://doi.org/10.1007/978-981-95-5676-2_5"

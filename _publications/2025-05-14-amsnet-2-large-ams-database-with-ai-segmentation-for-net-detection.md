@@ -5,6 +5,7 @@ permalink: /publication/2025-05-14-amsnet-2-large-ams-database-with-ai-segmentat
 excerpt: "AMSnet 2.0 expands the AMS database with AI-based segmentation for net detection and richer positional and digital representations of circuit schematics."
 date: 2025-05-14
 venue: "arXiv"
+shortvenue: "arXiv"
 category: EDA
 order: 2
 paperurl: "https://arxiv.org/abs/2505.09155"

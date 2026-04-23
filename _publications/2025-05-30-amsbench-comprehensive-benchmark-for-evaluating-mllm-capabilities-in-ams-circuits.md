@@ -5,6 +5,7 @@ permalink: /publication/2025-05-30-amsbench-comprehensive-benchmark-for-evaluati
 excerpt: "AMSbench is a comprehensive benchmark for evaluating multimodal large language models on AMS circuit perception, analysis, and design tasks."
 date: 2025-05-30
 venue: "arXiv"
+shortvenue: "arXiv"
 category: EDA
 order: 4
 paperurl: "https://arxiv.org/abs/2505.24138"

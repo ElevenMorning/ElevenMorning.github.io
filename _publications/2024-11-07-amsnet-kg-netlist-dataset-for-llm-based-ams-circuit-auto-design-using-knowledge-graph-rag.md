@@ -5,6 +5,7 @@ permalink: /publication/2024-11-07-amsnet-kg-netlist-dataset-for-llm-based-ams-c
 excerpt: "AMSnet-KG extends AMS netlist data with a circuit knowledge graph and retrieval-augmented generation to support LLM-based reasoning and auto-design for AMS circuits."
 date: 2025-10-18
 venue: "ACM Transactions on Design Automation of Electronic Systems"
+shortvenue: "TODAES"
 category: EDA
 order: 3
 paperurl: "https://doi.org/10.1145/3736166"
