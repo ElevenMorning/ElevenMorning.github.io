@@ -22,6 +22,7 @@ Research Interests
 Selected Publications
 =====
 
+- [UniShield: Unified Face Attack Detection via KG-Informed Multimodal Reasoning](https://arxiv.org/abs/2605.08709), **arXiv 2026**
 - [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](/publication/2025-05-14-faceshield-explainable-face-anti-spoofing-with-multimodal-large-language-models), **AAAI 2026**
 - [SHIELD: an evaluation benchmark for face spoofing and forgery detection with multimodal large language models](/publication/2025-06-03-shield-evaluation-benchmark-for-face-spoofing-and-forgery-detection-with-multimodal-large-language-models), **Visual Intelligence 2025**
 - [AMSnet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG](/publication/2024-11-07-amsnet-kg-netlist-dataset-for-llm-based-ams-circuit-auto-design-using-knowledge-graph-rag), **ACM TODAES 2025**
@@ -31,6 +32,7 @@ Selected Publications
 News
 ======
 
+- May 2026: [UniShield](https://arxiv.org/abs/2605.08709) was released on **arXiv**.
 - March 2026: [FaceShield](https://doi.org/10.1609/aaai.v40i12.37945) was published in **AAAI 2026**.
 - October 2025: [AMSnet-KG](https://doi.org/10.1145/3736166) was published in **ACM TODAES**.
 - October 2025: Symbol and Footprint Database for Electronic Components by Agentic Recognition and Generation was accepted to **PRCV 2025**.
