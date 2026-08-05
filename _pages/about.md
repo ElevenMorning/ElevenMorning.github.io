@@ -22,6 +22,7 @@ Research Interests
 Selected Publications
 =====
 
+- [FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing](/publication/2026-07-29-fas-r1-unified-multi-task-mllm-for-reasoning-face-anti-spoofing), **arXiv 2026**
 - [UniShield: Unified Face Attack Detection via KG-Informed Multimodal Reasoning](https://arxiv.org/abs/2605.08709), **arXiv 2026**
 - [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](/publication/2025-05-14-faceshield-explainable-face-anti-spoofing-with-multimodal-large-language-models), **AAAI 2026**
 - [SHIELD: an evaluation benchmark for face spoofing and forgery detection with multimodal large language models](/publication/2025-06-03-shield-evaluation-benchmark-for-face-spoofing-and-forgery-detection-with-multimodal-large-language-models), **Visual Intelligence 2025**
@@ -32,6 +33,7 @@ Selected Publications
 News
 ======
 
+- July 2026: [FAS-R1](https://arxiv.org/abs/2607.26432) was released on **arXiv**.
 - May 2026: [UniShield](https://arxiv.org/abs/2605.08709) was released on **arXiv**.
 - March 2026: [FaceShield](https://doi.org/10.1609/aaai.v40i12.37945) was published in **AAAI 2026**.
 - October 2025: [AMSnet-KG](https://doi.org/10.1145/3736166) was published in **ACM TODAES**.
