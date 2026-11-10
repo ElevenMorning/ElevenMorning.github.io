@@ -22,7 +22,7 @@ Research Interests
 Selected Publications
 =====
 
-- [FMA-Net: Flexible Modality Adaptation for Robust Multimodal Face Presentation Attack Detection](/publication/2026-11-10-fma-net-flexible-modality-adaptation), **IEEE TBIOM, accepted** · **Co-first author**
+- [FMA-Net: Flexible Modality Adaptation for Robust Multimodal Face Presentation Attack Detection](/publication/2026-11-10-fma-net-flexible-modality-adaptation), **IEEE TBIOM, accepted** · **Co-first author** · [arXiv](https://arxiv.org/abs/2611.11790)
 - [FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing](/publication/2026-07-29-fas-r1-unified-multi-task-mllm-for-reasoning-face-anti-spoofing), **arXiv 2026**
 - [UniShield: Unified Face Attack Detection via KG-Informed Multimodal Reasoning](https://arxiv.org/abs/2605.08709), **arXiv 2026**
 - [FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models](/publication/2025-05-14-faceshield-explainable-face-anti-spoofing-with-multimodal-large-language-models), **AAAI 2026**
@@ -34,7 +34,7 @@ Selected Publications
 News
 ======
 
-- November 2026: [FMA-Net](/publication/2026-11-10-fma-net-flexible-modality-adaptation), which I co-authored as a **co-first author**, has been accepted by **IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)**. The preprint is also available on **arXiv**.
+- November 2026: [FMA-Net](/publication/2026-11-10-fma-net-flexible-modality-adaptation), which I co-authored as a **co-first author**, has been accepted by **IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)**. The preprint is also available on **[arXiv](https://arxiv.org/abs/2611.11790)**.
 - July 2026: [FAS-R1](https://arxiv.org/abs/2607.26432) was released on **arXiv**.
 - May 2026: [UniShield](https://arxiv.org/abs/2605.08709) was released on **arXiv**.
 - March 2026: [FaceShield](https://doi.org/10.1609/aaai.v40i12.37945) was published in **AAAI 2026**.

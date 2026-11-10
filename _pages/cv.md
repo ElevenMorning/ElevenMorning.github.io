@@ -47,7 +47,7 @@ Experience
 Selected Publications
 ======
 
-- **[FMA-Net: Flexible Modality Adaptation for Robust Multimodal Face Presentation Attack Detection](/publication/2026-11-10-fma-net-flexible-modality-adaptation)**. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), accepted, 2026. **Co-first author**.
+- **[FMA-Net: Flexible Modality Adaptation for Robust Multimodal Face Presentation Attack Detection](/publication/2026-11-10-fma-net-flexible-modality-adaptation)**. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), accepted, 2026. **Co-first author**. [arXiv](https://arxiv.org/abs/2611.11790).
 - **FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models**. AAAI 2026.
 - **SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models**. Visual Intelligence, 2025.
 - **AMSnet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG**. ACM TODAES, 2025.

@@ -9,6 +9,7 @@ shortvenue: "IEEE TBIOM (Accepted)"
 status: accepted
 category: FAS
 label: "Co-first author"
+paperurl: "https://arxiv.org/abs/2611.11790"
 citation: "Gao, Y., Shi, Y., Yu, Z., Wang, H., Li, H., Zhang, R., Ding, S., &amp; Feng, J. (2026). FMA-Net: Flexible Modality Adaptation for Robust Multimodal Face Presentation Attack Detection. <i>IEEE Transactions on Biometrics, Behavior, and Identity Science</i>, accepted."
 ---
 
@@ -16,7 +17,7 @@ citation: "Gao, Y., Shi, Y., Yu, Z., Wang, H., Li, H., Zhang, R., Ding, S., &amp
 
 <sup>*</sup> Equal contribution (co-first authors).
 
-The preprint is also available on **arXiv**.
+The preprint is also available on **[arXiv:2611.11790](https://arxiv.org/abs/2611.11790)**.
 
 ## Abstract
 
